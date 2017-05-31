@@ -39,7 +39,7 @@ def islemler():
   print(str(x) +" Bu sayı pozitiftir.")
   print (ayrac)
  else:
-  print("Bu sayı 0'dır.")
+  print("Bu sayı Nötr'dür.")
   print (ayrac)
 
 main()
