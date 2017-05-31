@@ -1,3 +1,4 @@
+print("<<<<< Emre Durgun Tarafından Yapıldı! >>>>>"
 import sys
 ayrac = "##############################################"
 x = 0
