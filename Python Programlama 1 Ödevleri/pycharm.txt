@@ -1,0 +1,15 @@
+Pycharm Adlý IDE'Yi Ýndirmiþ Olduðum Sayfa:
+https://www.jetbrains.com/pycharm/download
+
+PyCharm Adlý Uygulamayý Kurduðum Platform:
+Ben Windows adlý iþletim sistemi için Community'yi kurdum.
+
+Kurulum Sýrasýnda Ýzlediðim Yol:
+1-)Ýlk sayfada "Next" diyerek geçiyorum.
+2-)Kurulmasý önerilen dizine ellemeden "Next" diyorum.
+3-).py adlý checkbox'ý iþaretliyorum ve "Next" diyorum.
+4-)Direk Next diyorum.
+5-)Kurulumun bitmesini bekleyip "Finish" adlý tuþa basýyorum
+
+Herhangi Bir Hata Ýle Karþýlaþtým mý?
+Kurulum Sýrasýnda Herhangi bir Hataya Karþýlaþmadan Kurulumu Tamamladým!
